@@ -1,0 +1,14 @@
+# Środowisko wirtualne i pliki IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Certyfikaty i klucze
+certs/
+*.pem
+*.key
+
+# Wygenerowane dane
+data/
